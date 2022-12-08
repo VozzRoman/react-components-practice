@@ -1,0 +1,40 @@
+[
+{
+  "squadName": "Super",
+  "url": "https://media.istockphoto.com/id/1162040662/vector/vector-superhero-silhouette-with-sunburst-effect-background.jpg?s=612x612&w=0&k=20&c=NyvKS97BiIyoZ4Z75Sd7Iptc9BTckQQNep91MGhuRmo=",
+  "homeTown": "Bumil City",
+  "formed": 2016,
+  "secretBase": "Jusika tower",
+  "active": true,
+  "members": 20
+},
+{
+  "squadName": "Hero",
+  "url": "",
+  "homeTown": "Retro City",
+  "formed": 2010,
+  "secretBase": "Bango tower",
+  "active": false,
+  "members": 10
+},
+{
+  "squadName": "Squad",
+  "url": "",
+  "homeTown": "Lotos City",
+  "formed": 2019,
+  "secretBase": "Gonio tower",
+  "active": true,
+  "members": 19
+},
+{
+  "squadName": "Batman",
+  "url": "",
+  "homeTown": "Archam City",
+  "formed": 1990,
+  "secretBase": "Super hero",
+  "active": true,
+  "members": 1
+}
+
+
+]
